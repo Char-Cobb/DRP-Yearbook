@@ -1,0 +1,14 @@
+#ignore all pdf files and pdf git
+drp-cohort/2022/**/*.pdf
+drp-cohort/2022/**/pdf-flipbook/*.pdf
+drp-cohort/2022/pdf-flipbook/*.pdf
+drp-cohort/2022/**/pdf-flipbook
+drp-cohort/2022/**/examples
+drp-cohort/2022/**/images
+drp-cohort/2022/**/pdfjs
+drp-cohort/2022/**/pics
+drp-cohort/2022/**/sound
+drp-cohort/2022/**/turnjs
+drp-cohort/2022/**/
+pdf-flipbook
+*.pdf
